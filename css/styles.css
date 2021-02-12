@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.block {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #fff;
+  background: #343434;
+  border: 1px dashed red;
+  width: 400px;
+  height: 200px;
+}
+
+.container {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*# sourceMappingURL=styles.css.map */
